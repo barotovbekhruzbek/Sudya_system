@@ -1,0 +1,195 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@400;500;600;700;800&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'MuseoModerno', cursive;
+    font-style: normal;
+    font-weight: normal;
+
+}
+
+.bulimregis {
+    background: #E5E5E5;
+}
+
+.border-bulim {
+
+    width: 1050px;
+    height: 574px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 2px 10px rgba(187, 193, 221, 0.3);
+    border-radius: 3px;
+}
+
+.block-paddi {
+    padding-top: 30px;
+    padding-left: 30px;
+}
+
+.input_hi {
+    width: 295px;
+    height: 48px;
+    border-radius: 4px;
+    border: 1px solid #CFD9E8;
+
+}
+
+.input_hi::placeholder {
+    padding-left: 20px;
+    padding-top: 12px;
+    font-size: 17px;
+    line-height: 23px;
+
+    color: #959AB2;
+
+}
+
+input#file-input+label,
+input#file-input1+label {
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 23px;
+
+    color: #959AB2;
+    display: flex;
+    align-items: center;
+    color: #282E3E;
+    opacity: 0.6;
+    background-color: rgb(255, 255, 255);
+    padding: 8px 0 8px 15px;
+    border: 1.5px solid #9499A4;
+    border-radius: 5px 0 0 5px;
+    width: 471px;
+    height: 48px;
+}
+
+input#file-input,
+input#file-input1 {
+    display: none;
+}
+
+.yuborish_knopka {
+    position: absolute;
+    margin-left: 473px;
+    margin-top: -48px;
+    width: 160px;
+    height: 48px;
+    background: #0A3077;
+    border-radius: 0px 4px 4px 0px;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+    border: 0px;
+
+}
+
+.type-text input {
+    width: 945px;
+    height: 200px;
+
+
+    border: 1px solid #CFD9E8;
+
+    border-radius: 6px;
+}
+
+.type-text input::placeholder {
+    position: absolute;
+    padding-top: 12px;
+    padding-left: 20px;
+    font-size: 17px;
+    line-height: 23px;
+
+    color: #959AB2;
+
+}
+
+.type-text button {
+    width: 140px;
+    height: 48px;
+    margin-top: 40px;
+    background: #0A3077;
+    border-radius: 4px;
+    border: 0px;
+    font-weight: normal;
+    font-size: 17px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+
+
+
+}
+
+.border-right-ramka {
+    width: 330px;
+    height: 313px;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 10px rgba(187, 193, 221, 0.3);
+    border-radius: 3px;
+}
+
+.border-right-ramka-inside {
+    padding-left: 30px;
+    padding-top: 30px;
+
+}
+
+.text_001 {
+    width: 203px;
+    height: 56px;
+    font-weight: 500;
+    font-size: 23px;
+    line-height: 120%;
+    /* or 28px */
+
+
+    color: #444650;
+}
+
+.text-002 {
+    width: 281px;
+    height: 46px;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 125%;
+    /* or 22px */
+
+
+    color: #959AB2;
+}
+
+.text-003 {
+    font-size: 18px;
+    line-height: 125%;
+    /* or 22px */
+
+
+    color: #1D37B5;
+
+}
+
+.text-004 {
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 125%;
+    /* or 22px */
+
+
+    color: #959AB2;
+
+}
+.rasm_page img{
+    margin-top: 30px;
+}
+.rasm_page{
+    padding-bottom: 80px;
+}

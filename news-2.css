@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno:wght@400;500;600;700;800&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'MuseoModerno', cursive;
+    font-style: normal;
+    font-weight: normal;
+
+}
+
+.news-2block {
+    background: #E5E5E5;
+    padding-top: 40px;
+}
+
+.news2block-border {
+    width: 1050px;
+    height: 1424px;
+
+
+    background: #FFFFFF;
+    box-shadow: 0px 2px 10px rgba(187, 193, 221, 0.3);
+    border-radius: 3px;
+}
+
+.bloxkmain {
+    padding: 30px;
+}
+
+.text-content-main {
+    font-weight: 500;
+    font-size: 21px;
+    line-height: 130%;
+    /* or 27px */
+
+
+    color: #444650;
+
+}
+
+.calendar-12 {
+    padding-top: 35px;
+}
+
+.calendar-date {
+    position: absolute;
+    margin-top: 30px;
+    padding-left: 7px;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 23px;
+
+    color: #959AB2;
+
+
+}
+
+.calendar-time {
+    position: absolute;
+    padding-left: 170px;
+    margin-top: 30px;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 23px;
+
+    color: #959AB2;
+}
+
+.calendar-view {
+    position: absolute;
+    margin-top: 30px;
+    padding-left: 270px;
+}
+
+.calendar-number {
+    position: absolute;
+    margin-top: 30px;
+    padding-left: 290px;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 23px;
+
+    color: #959AB2;
+
+}
+
+.pechat {
+    position: absolute;
+    padding-left: 870px;
+    margin-top: 30px;
+}
+
+.pechat_title {
+    position: absolute;
+    padding-left: 900px;
+    margin-top: 30px;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 23px;
+
+    color: #959AB2;
+}
+
+.text-main {
+    padding-top: 26px;
+    border-top: 1px solid #E6E8EB;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 135%;
+    /* or 24px */
+
+
+    color: #444650;
+
+}
+
+.social-media-main p {
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 23px;
+
+    color: #959AB2;
+}
+.img-social-media-icon img{
+    padding-left: 20px;
+    
+}
+.img-social-media-icon{
+    position: absolute;
+    margin-top: -40px;
+    margin-left: 88px;
+
+}
